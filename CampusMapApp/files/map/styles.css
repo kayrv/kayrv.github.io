@@ -105,7 +105,7 @@
 #u8 {
   position:absolute;
   left:298px;
-  top:221px;
+  top:240px;
   width:112px;
   height:29px;
   font-size:25px;
@@ -541,5 +541,30 @@
   left:2px;
   top:4px;
   width:83px;
+  word-wrap:break-word;
+}
+#u43 {
+  position:absolute;
+  left:270px;
+  top:201px;
+  width:160px;
+  height:16px;
+  font-size:25px;
+  color:#990000;
+  text-align:center;
+}
+#u43_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:160px;
+  height:16px;
+}
+#u44 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:160px;
+  visibility:hidden;
   word-wrap:break-word;
 }
