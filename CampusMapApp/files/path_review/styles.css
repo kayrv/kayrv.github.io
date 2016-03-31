@@ -15,7 +15,7 @@
 #u0 {
   position:absolute;
   left:108px;
-  top:51px;
+  top:47px;
   width:400px;
   height:621px;
 }
@@ -36,8 +36,8 @@
 }
 #u2 {
   position:absolute;
-  left:156px;
-  top:255px;
+  left:161px;
+  top:254px;
   width:76px;
   height:29px;
 }
@@ -126,9 +126,9 @@
 }
 #u10 {
   position:absolute;
-  left:211px;
-  top:205px;
-  width:198px;
+  left:276px;
+  top:196px;
+  width:55px;
   height:29px;
   font-size:25px;
   color:#990000;
@@ -137,14 +137,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:198px;
+  width:55px;
   height:29px;
 }
 #u11 {
   position:absolute;
   left:0px;
   top:0px;
-  width:198px;
+  width:55px;
   white-space:nowrap;
 }
 #u12 {
@@ -172,9 +172,9 @@
 }
 #u14 {
   position:absolute;
-  left:161px;
-  top:290px;
-  width:66px;
+  left:165px;
+  top:289px;
+  width:65px;
   height:16px;
   font-size:13px;
 }
@@ -182,20 +182,20 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:66px;
+  width:65px;
   height:16px;
 }
 #u15 {
   position:absolute;
   left:0px;
   top:0px;
-  width:66px;
-  word-wrap:break-word;
+  width:65px;
+  white-space:nowrap;
 }
 #u16 {
   position:absolute;
-  left:166px;
-  top:255px;
+  left:171px;
+  top:254px;
   width:57px;
   height:32px;
   font-size:26px;
@@ -218,7 +218,7 @@
 #u18 {
   position:absolute;
   left:352px;
-  top:260px;
+  top:252px;
   width:122px;
   height:40px;
   font-family:'Arial Bold', 'Arial';
@@ -471,7 +471,7 @@
 #u39 {
   position:absolute;
   left:161px;
-  top:290px;
+  top:289px;
   width:293px;
   height:146px;
   overflow:hidden;
