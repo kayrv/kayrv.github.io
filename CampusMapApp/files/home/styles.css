@@ -995,7 +995,7 @@
   width:35px;
   height:35px;
   font-size:18px;
-  color:#999999;
+  color:#FF0000;
 }
 #u80_img {
   position:absolute;
@@ -1810,7 +1810,7 @@
   width:35px;
   height:35px;
   font-size:18px;
-  color:#999999;
+  color:#FF0000;
 }
 #u148_img {
   position:absolute;
@@ -1832,8 +1832,9 @@
   top:460px;
   width:100px;
   height:30px;
+  opacity:0.899999976158142;
   font-size:20px;
-  color:#666666;
+  color:#006600;
 }
 #u150_img {
   position:absolute;
