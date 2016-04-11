@@ -422,9 +422,9 @@
 }
 #u29 {
   position:absolute;
-  left:248px;
-  top:543px;
-  width:32px;
+  left:219px;
+  top:542px;
+  width:182px;
   height:16px;
   color:#009900;
   text-align:center;
@@ -433,14 +433,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:32px;
+  width:182px;
   height:16px;
 }
 #u30 {
   position:absolute;
   left:0px;
   top:0px;
-  width:32px;
+  width:182px;
   visibility:hidden;
-  white-space:nowrap;
+  word-wrap:break-word;
 }

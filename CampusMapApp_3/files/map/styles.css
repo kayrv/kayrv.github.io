@@ -505,9 +505,9 @@
 }
 #u40 {
   position:absolute;
-  left:341px;
+  left:188px;
   top:540px;
-  width:32px;
+  width:245px;
   height:16px;
   text-align:center;
 }
@@ -515,14 +515,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:32px;
+  width:245px;
   height:16px;
 }
 #u41 {
   position:absolute;
   left:0px;
   top:0px;
-  width:32px;
+  width:245px;
   visibility:hidden;
-  white-space:nowrap;
+  word-wrap:break-word;
 }
